@@ -120,4 +120,5 @@ bin/
 .vscode
 .sts4-cache
 src/**/.DS_Store
+.DS_Store
 
