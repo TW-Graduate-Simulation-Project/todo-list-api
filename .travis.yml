@@ -13,7 +13,7 @@ deploy:
   provider: heroku
   api_key:
     secure: 77ea18dc-50f5-4afd-829e-e9a1a373b688
-  app: tw-simulation-react-todo-app
+  app: tw-simulation-todo-api
   on:
     repo: TW-Graduate-Simulation-Project/todo-list-api
 notifications:
