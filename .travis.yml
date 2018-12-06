@@ -13,7 +13,7 @@ deploy:
   provider: heroku
   api_key:
     secure: 77ea18dc-50f5-4afd-829e-e9a1a373b688
-  app: todo-list-data-api
+  app: tw-simulation-react-todo-app
   on:
     repo: zjx-immersion/todo-list-api
 notifications:
